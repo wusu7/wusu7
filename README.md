@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+“I shouldn’t do something that makes me look good, but what the other person really wants.”
 ## 🛠️ 기술 스택
 
 ### 언어
